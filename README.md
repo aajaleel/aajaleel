@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 <picture>
   <source media="(max-width: 767px)" srcset="">
-  <img align="right" alt="" src="./assets/mdImages/programming.svg" width=300px>
+  <img align="right" alt="" src="./aajaleel/giphy.gif" width=300px>
 </picture>
 
 <br>
