@@ -6,12 +6,12 @@
 
 <br>
 
-- 📚 Third year computer science student passionate about programming and UX design
+- 📚 Fourth year computer science student passionate about programming and UX design
 - 🌱 Currently learning about databases, numerical algorithms, and web development
 - 🔭 Interested in the intersection between software engineering and creative writing
 - 👩🏽‍💻 Director of Computer and Mathematical Sciences at University of Toronto Scarborough
 - 🏍️ Fun fact: I have my motorcycle license!
-- 📫 Seeking co-op/internship opportunities for Winter/Summer 2024, attached is my [Resume](AaliyahJaleel_Resume.pdf)
+- 📫 Seeking co-op/internship opportunities for Winter/Summer 2025, attached is my [Resume](AaliyahJaleel_Resume.pdf)
 
 <br>
 
